@@ -1,0 +1,225 @@
+
+<!DOCTYPE html>
+
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rezky Amalia Putri</title>
+</head>
+<body style="font-family: Arial, sans-serif; line-height: 1.6; padding: 20px;">
+
+<header style="background-color: #f0f0f0; padding: 10px;">
+    <h1 style="color: navy;">Welcome!</h1>
+    <p style="font-style: italic;">Hi, I'm Rezky Amalia Putri, a Digital Business student.</p>
+</header>
+
+<nav style="margin-top: 10px;">
+    <a href="#" style="margin-right: 10px; color: green;">Home</a>
+    <a href="#" style="margin-right: 10px; color: green;">About</a>
+    <a href="#" style="color: green;">Contact</a>
+    <a href="https://www.instagram.com/friezchy.rez?igsh=MWp1ZGg2d3o4bGRiNw==" style="color: green;">Instagram</a>
+</nav>
+
+<main style="margin-top: 20px;">
+    <section style="border: 1px solid #ccc; padding: 10px;">
+        <h2 style="color: darkred;">Main Section</h2>
+        <p>This section showcases the core content that defines the purpose of this page. <code>&lt;section&gt;</code>.</p>
+        <article style="background-color: #f9f9f9; padding: 10px;">
+            <h3>My Neighbor Totoro: Hayao Miyazaki and The Heart-Warming Tale From Studio Ghibli</h3>
+            <p>My Neighbor Totoro is a 1988 <strong>Japanese animated fantasy film</strong> written and directed by Hayao Miyazaki and animated by Studio Ghibli for Tokuma Shoten.</p>
+            <blockquote style="border-left: 4px solid gray; padding-left: 10px;">
+                "The film explores themes such as animism, Shinto symbology, environmentalism and the joys of rural living."
+            </blockquote>
+        </article>
+    </section>
+
+    <aside style="margin-top: 20px; background-color: #eee; padding: 10px;">
+        <h4>Different Types of Cats</h4>
+        <ul>
+            <li>Persian</li>
+            <li>Siamese</li>
+            <li>Maine Coon</li>
+            <li>Bengal</li>
+            <li>Ragdoll</li>
+        </ul>
+    </aside>
+
+    <section>
+        <h3>Types of Cats</h3>
+        <ol>
+            <li>Persian Cat: Known for their long, luxurious coats and calm demeanor.</li>
+            <li>Siamese Cat: A vocal and social breed with striking blue eyes.</li>
+            <li>Maine Coon: One of the largest cat breeds, friendly and sociable.</li>
+            <li>Bengal Cat: Wild-looking with a beautiful spotted coat, very energetic.</li>
+        </ol>
+        <dl>
+            <dt>Persian</dt>
+            <dd>A breed characterized by its long, fluffy fur and relaxed personality.</dd>
+            <dt>Siamese</dt>
+            <dd>Famous for their sleek bodies, blue almond-shaped eyes, and talkative nature.</dd>
+            <dt>Maine Coon</dt>
+            <dd>Known for its size and bushy tail, these cats are affectionate and love socializing.</dd>
+            <dt>Bengal</dt>
+            <dd>A highly active breed with a striking coat that resembles a wild leopard.</dd>
+        </dl>
+        <section>
+            <h3>Cat Fun Facts</h3>
+            <p>Cats are fascinating creatures. They're known for their independence, curiosity, and unique personalities. Whether they're lounging or playing, they always captivate their owners.</p>
+        </section>
+        
+        <section>
+            <h3>Why Cats Are Great Pets</h3>
+            <p>Cats are relatively low-maintenance pets, making them perfect for busy people. They clean themselves, are quiet, and love a cozy spot to relax.</p>
+        </section>
+        
+        <section>
+            <h3>Popular Cat Breeds</h3>
+            <p>Some of the most popular cat breeds include Persian, Siamese, Maine Coon, and Bengal. Each breed has its unique traits and charm.</p>
+        </section>
+        
+        <section>
+            <h3>Cat Behavior</h3>
+            <p>Cats are very territorial and love to mark their space with scent. They’re also known for their playful and hunting instincts, often chasing after toys or small objects.</p>
+        </section>
+        
+        <section>
+            <h3>Cat Care Tips</h3>
+            <p>To keep your cat happy, provide fresh food and water daily, maintain a clean litter box, and offer stimulating toys to keep them entertained.</p>
+        </section>
+        
+<section>
+    <h3>More Content 5</h3>
+    <p>Added to help increase the tag count and contribute to the webpage's structure.</p>
+</section>
+
+<section>
+    <h3>More Content 6</h3>
+    <p>This is to complete the target and further enhance the content of this page.</p>
+</section>
+
+<article>
+    <h3>Article on Web Design</h3>
+    <p>In web design, it is important to follow best practices to ensure user experience and accessibility. <strong>Accessibility</strong> refers to designing web pages so that everyone, including people with disabilities, can use them.</p>
+    <p>Another important factor is <strong>performance optimization</strong> to ensure the webpage loads quickly.</p>
+</article>
+
+
+<section>
+    <h3>More Images</h3>
+    <figure>
+        <img src="https://i.pinimg.com/736x/9e/a5/2f/9ea52f1febe293d02d731de3be9a7728.jpg" alt="Example Image 1" style="width: 300px;">
+        <figcaption>Kucing pakai topi</figcaption>
+    </figure>
+    <figure>
+        <img src="https://i.pinimg.com/736x/34/70/d6/3470d6e9b18e74423f0ec7646c5fc6c2.jpg" alt="Example Image 2" style="width: 300px;">
+        <figcaption>kucing imut</figcaption>
+    </figure>
+    <figure>
+        <img src="https://i.pinimg.com/736x/f1/ed/3e/f1ed3e6cb0baa4c30f3db019544b16b2.jpg" alt="Example Image 3" style="width: 300px;">
+        <figcaption>kucing lucu</figcaption>
+    </figure>
+</section>
+
+<section>
+    <h3>Form Elements</h3>
+    <div style="border: 1px solid #ccc; padding: 15px; width: 300px; background-color: #f9f9f9;">
+        <form>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" style="margin: 5px; width: 100%;"><br>
+
+            <label for="phone">Phone Number:</label>
+            <input type="tel" id="phone" name="phone" style="margin: 5px; width: 100%;"><br>
+            
+            <label for="message">Message:</label>
+            <textarea id="message" name="message" rows="4" style="margin: 5px; width: 100%;"></textarea><br>
+
+            <label for="subscribe">Subscribe to Newsletter:</label>
+            <input type="checkbox" id="subscribe" name="subscribe" style="margin: 5px;"><br>
+
+            <button type="submit" style="margin: 10px;">Submit</button>
+        </form>
+    </div>
+</section>
+
+<section>
+    <h3>Additional Navigation</h3>
+    <nav>
+        <a href="#" style="margin-right: 10px; color: green;">Page 1</a>
+        <a href="#" style="margin-right: 10px; color: green;">Page 2</a>
+        <a href="#" style="margin-right: 10px; color: green;">Page 3</a>
+        <a href="#" style="color: green;">Page 4</a>
+    </nav>
+</section>
+
+<section>
+    <h3>Video Embeds</h3>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/d_Sb77TPDD8?si=uUwNfyAcYunEHRR3" title=" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</section>
+
+<section>
+    <h3>talks about cat</h3>
+    <p>Cats are such fascinating creatures! They're known for being independent, curious, and sometimes a bit mysterious.<span style="color: blue;">Whether they’re snuggling</span>  up for a nap or zooming around the house during a burst of energy, cats have a way of captivating their owners. Do you have a cat, or are you a fan of them in general?<em>This is an italicized text.</em></p>
+</section>
+<!-- Table for Cat Info -->
+<section>
+    <h3>Cat Info Table</h3>
+    <table border="1" style="width:100%; margin-top: 10px;">
+        <thead>
+            <tr>
+                <th>Cat Name</th>
+                <th>Breed</th>
+                <th>Age</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Whiskers</td>
+                <td>Siamese</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>Fluffy</td>
+                <td>Persian</td>
+                <td>5</td>
+            </tr>
+            <tr>
+                <td>Shadow</td>
+                <td>Maine Coon</td>
+                <td>2</td>
+            </tr>
+        </tbody>
+    </table>
+</section>
+
+
+<!-- Menambahkan Peta menggunakan iframe -->
+
+<section>
+    <h3>Map Example</h3>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3976.479819944418!2d106.8129688147677!3d-6.2552548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f17ee53814af%3A0xa40a560df05b7e1c!2sThe+Cat+Cabin!5e0!3m2!1sen!2sid!4v1683306708301!5m2!1sen!2sid" width="1000" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+```
+    <section>
+        <h3>Images and Media</h3>
+        <figure>
+            <img src="https://files.tofugu.com/articles/japan/2013-08-15-totoro-conspiracy-theory/totoro.jpg" alt="Contoh Gambar" style="width:300px;">
+            <figcaption>My Neighbor Totoro</figcaption>
+        </figure>
+        <audio controls style="display:block; margin-top:10px;">
+            <source src="c:\Users\ACER\Downloads\ytmp3free.cc_niki-take-a-chance-with-me-lyrics-youtubemp3free.org.mp3" type="audio/mpeg">
+            Browser tidak mendukung audio.
+        </audio>
+        <video width="320" height="240" controls style="margin-top:10px;">
+            <source src="MOV01395.mp4" type="video/mp4">
+            Browser tidak mendukung video.
+        </video>
+    </section>
+
+    <time datetime="2025-05-06" style="color: rgb(200, 135, 146);">6 Mei 2025</time>
+    
+    <svg width="100" height="75" style="border: 1px solid #cb8d8d;">
+        <circle cx="50" cy="50" r="40" stroke="pink" stroke-width="4" fill="purple" />
+      </svg>
+      <ins style="background-color: lightgreen;">Teks yang dimasukkan</ins>
+      <del style="background-color: lightcoral;">Teks yang dihapus</del>
